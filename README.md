@@ -13,11 +13,11 @@ This project analyzes the used car market through advertisements to build a line
 - Acknowledgements
 
 ## Features
-Data collection and preprocessing
-Exploratory data analysis
-Linear regression model training
-Model evaluation and validation
-Price prediction based on car features
+- Data collection and preprocessing
+- Exploratory data analysis
+- Linear regression model training
+- Model evaluation and validation
+- Price prediction based on car features
 
 
 Feel free to modify the sections to better fit your project's needs. Let me know if you need any more help!
